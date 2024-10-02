@@ -92,9 +92,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="background-color: lightgrey; padding: 10px; border-radius: 10px;"/> 
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="background-color: lightgrey; padding: 10px; border-radius: 10px;"/> 
-  </a> 
+ 
 </p>
 
 
