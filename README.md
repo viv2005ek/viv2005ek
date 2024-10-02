@@ -34,7 +34,7 @@
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 200px;">
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ABootstrap_logo.svg&psig=AOvVaw0pGd5lRX5-hqyKbndKOW4V&ust=1727949270613000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCrvfW274gDFQAAAAAdAAAAABAZ)" alt="bootstrap" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
+    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
