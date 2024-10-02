@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex,gap:10px"> 
+<p align="left" style="display:flex,gap:100px"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50" style="background-color: lightgrey; padding: 10px; border-radius: 10px;"/> 
   </a> 
