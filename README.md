@@ -1,115 +1,72 @@
-<h1 align="center">Hello 👋, I'm Vivek</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+<h1 align="center">👋 Hello, I'm Vivek Kumar Garg</h1>
+<h3 align="center">Founder @IndoMate | Full-Stack Dev | AI/ML & Web3 Enthusiast</h3>
 
-<p align="left"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=viv2005ek&label=Profile%20views&color=0e75b6&style=flat" alt="viv2005ek" /> 
-</p>
-
-- 🔭 I’m currently working on **VsecureU**
-
-- 🌱 I’m currently learning **Next.Js, GSAP, and WEB3**
-
-- 👯 I’m looking to collaborate on **Open-source web development projects**
-
-- 🤝 I’m looking for help with **VsecureU**
-
-- 👨‍💻 All of my projects are available at [https://github.com/viv2005ek](https://github.com/viv2005ek)
-
-- 💬 Ask me about **MERN stack development**
-
-- 📫 How to reach me **viv2005ek@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vivek-kumar-garg-097677280/](https://www.linkedin.com/in/vivek-kumar-garg-097677280/)
-
-- ⚡ Fun fact **I think I am funny... but mostly when I'm debugging code!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vivek kumar garg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek kumar garg" height="30" width="40" />
+  <a href="https://github.com/viv2005ek?tab=followers">
+    <img src="https://img.shields.io/github/followers/viv2005ek?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://linkedin.com/in/vivek-kumar-garg-097677280">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 200px;">
+---
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
+### 🚀 **About Me**
+- 💡 **Founder of [IndoMate](https://youtu.be/f2-kMNexQRI)**: Patented SOS platform with geofencing & criminal verification (Pre-incubated @AIC-MUJ).  
+- 🏆 **Hackathon Winner**: Built AI tools like [StockAnalyzerApp](https://vralytics-tradesmart-riskfree-learnai.netlify.app) and [AutoExcuse Maker](https://auto-execuse-generator.netlify.app) at Bolt.New Hackathon.  
+- 🌱 **Currently Learning**: Machine Learning & Web3 (Solidity, Smart Contracts).  
+- 👨‍💻 **60+ Public Repos** | **Open-Source Contributor** (GSSoC, ACM SIGAI).  
+- ⚡ Fun fact: *I automate excuses with AI... including why my code has bugs!*  
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a>  
- 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" /> 
-</a>
+---
 
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" /> 
-</a>
+### 🔥 **Featured Projects**
+| Project | Description | Links |
+|---------|-------------|-------|
+| **IndoMate** | Patented emergency safety platform | [Demo](https://youtu.be/f2-kMNexQRI) • [Patent](https://www.linkedin.com/posts/vivek-kumar-garg-097677280_startup-innovation-indomate-activity-7267473035710914560-IWLF) |
+| **StockAnalyzerApp** | AI-powered stock learning tool | [Live](https://vralytics-tradesmart-riskfree-learnai.netlify.app) • [Video](https://youtu.be/B5TVuqSOuSg) |
+| **GDG MUJ Website** | Official site for Google Developer Group | [Visit](https://gdg-muj.netlify.app) |
 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" /> 
-</a>
+---
 
- 
+### 💼 **Professional Journey**
+- **Founder @IndoMate** (Nov 2024–Present): Led product strategy for SOS platform (React, Node.js, MongoDB).  
+- **Web Dev Co-Lead @GDG MUJ**: Built community website and managed tech initiatives.  
+- **SDE Intern @SDC, MUJ**: Developed Elective Management System (EMS) using MERN stack.  
+
+---
+
+### 🛠 **Tech Stack**
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React"></a>
+  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux"></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind"></a>
+  
+  <!-- Backend -->
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  
+  <!-- Learning -->
+  <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/-Web3-F16822?logo=web3.js&logoColor=white" alt="Web3"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></a>
 </p>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-<!--   <img src="https://gssoc-dymanic-badges.vercel.app/api/viv2005ek?year=2024Extd" width="100px" height="100px" /> -->
+---
 
+### 🏅 **Achievements**
+- 🏆 **2nd Runner-up** @Ennovate Ideathon | **Top 9** @Pitch-a-Thon  
+- 📜 **15+ Certifications**: NPTEL (Top 5% in DAA), Postman API Expert, Oracle SQL  
+- 🏅 **GirlScript Summer of Code** Contributor | **Dean’s List** (3x)  
 
-</a>
-</div>
-</details>
+---
 
-
+### 📫 **Let’s Connect**
+<p align="left">
+  <a href="https://linkedin.com/in/vivek-kumar-garg-097677280"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="mailto:xiv2005ek@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email"/></a>
+  <a href="https://github.com/viv2005ek"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/></a>
+</p>
