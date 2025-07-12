@@ -1,115 +1,91 @@
-<h1 align="center">Hello 👋, I'm Vivek</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=👋+Hi%2C+I'm+Vivek+Kumar+Garg;🚀+Founder+@IndoMate;💻+Full-Stack+Dev;🤖+AI%2FML+%26+Web3+Builder" alt="Typing Intro" />
+</h1>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=viv2005ek&label=Profile%20views&color=0e75b6&style=flat" alt="viv2005ek" /> 
-</p>
-
-- 🔭 I’m currently working on **VsecureU**
-
-- 🌱 I’m currently learning **Next.Js, GSAP, and WEB3**
-
-- 👯 I’m looking to collaborate on **Open-source web development projects**
-
-- 🤝 I’m looking for help with **VsecureU**
-
-- 👨‍💻 All of my projects are available at [https://github.com/viv2005ek](https://github.com/viv2005ek)
-
-- 💬 Ask me about **MERN stack development**
-
-- 📫 How to reach me **viv2005ek@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vivek-kumar-garg-097677280/](https://www.linkedin.com/in/vivek-kumar-garg-097677280/)
-
-- ⚡ Fun fact **I think I am funny... but mostly when I'm debugging code!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vivek kumar garg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek kumar garg" height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/vivek-kumar-garg-097677280">
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/viv2005ek">
+    <img src="https://img.shields.io/badge/-EXPLORE_REPOS-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 200px;">
+<!-- 3D Profile View -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viv2005ek&theme=github_dark" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viv2005ek&show_icons=true&theme=radical&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viv2005ek&layout=compact&theme=radical" width="45%" />
+</div>
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
+---
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a>  
- 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;"/> 
-  </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" /> 
-</a>
-
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" /> 
-</a>
-
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" /> 
-</a>
-
- 
+### 🛠 **Tech Stack**
+<!-- Animated Tech Icons -->
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-<!--   <img src="https://gssoc-dymanic-badges.vercel.app/api/viv2005ek?year=2024Extd" width="100px" height="100px" /> -->
+<!-- 3D Project Cards -->
+<details>
+<summary><h2>🌟 Featured Projects (Click to Expand)</h2></summary>
 
+| Project | Tech Stack | Demo | 
+|---------|------------|------|
+| **[IndoMate](https://youtu.be/f2-kMNexQRI)** | React, Node.js, MongoDB | [![YouTube](https://img.shields.io/badge/-DEMO-red?style=flat&logo=youtube)](https://youtu.be/f2-kMNexQRI) |
+| **[StockAnalyzerApp](https://vralytics-tradesmart-riskfree-learnai.netlify.app)** | React, AI APIs | [![Live](https://img.shields.io/badge/-LIVE-green?style=flat)](https://vralytics-tradesmart-riskfree-learnai.netlify.app) |
+| **[GDG MUJ Website](https://gdg-muj.netlify.app)** | React, Tailwind | [![Visit](https://img.shields.io/badge/-VISIT-blue?style=flat)](https://gdg-muj.netlify.app) |
 
-</a>
-</div>
 </details>
 
+---
 
+### 🎮 **GitHub Activity**
+<!-- Snake Game Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viv2005ek/viv2005ek/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+<!-- Dynamic Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+### 📊 **Weekly Coding Stats**
+<!-- Wakatime Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=viv2005ek&theme=radical&layout=compact" alt="Wakatime Stats" />
+</p>
+
+---
+
+### 🎨 **Let's Connect**
+<p align="center">
+  <a href="https://linkedin.com/in/vivek-kumar-garg-097677280">
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="50" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:xiv2005ek@gmail.com">
+    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="50" alt="Email"/>
+  </a>
+  <a href="https://github.com/viv2005ek">
+    <img src="https://img.icons8.com/3d-fluency/94/github.png" width="50" alt="GitHub"/>
+  </a>
+</p>
+
+<!-- Spotify Playing -->
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem" alt="Now Playing" />
+</p>
