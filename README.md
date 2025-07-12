@@ -1,72 +1,110 @@
-<h1 align="center">👋 Hello, I'm Vivek Kumar Garg</h1>
-<h3 align="center">Founder @IndoMate | Full-Stack Dev | AI/ML & Web3 Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=👋+Hello,+I'm+Vivek;💻+Full-Stack+Web+Developer;🚀+Founder+@IndoMate;🌱+Learning+Next.js+/+Web3" alt="Typing Intro" />
+</h1>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=viv2005ek&label=Profile%20views&color=0e75b6&style=flat" alt="viv2005ek" /> 
   <a href="https://github.com/viv2005ek?tab=followers">
     <img src="https://img.shields.io/github/followers/viv2005ek?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://linkedin.com/in/vivek-kumar-garg-097677280">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+</p>
+
+---
+
+### 🔥 **About Me**
+- 💼 **Founder of [IndoMate](https://youtu.be/f2-kMNexQRI)** - Patented SOS platform with geofencing & criminal verification
+- 🌱 Currently mastering **Next.js, GSAP, Web3, and Machine Learning**
+- 🏆 **Hackathon Winner**: Built [StockAnalyzerApp](https://vralytics-tradesmart-riskfree-learnai.netlify.app) & [AutoExcuse Maker](https://auto-execuse-generator.netlify.app)
+- 👨‍💻 **60+ Public Repos** | **Open-Source Contributor** (GSSoC, ACM SIGAI)
+- ⚡ Fun fact: *I automate excuses with AI... including why my code has bugs!*
+
+---
+
+### 🛠 **Current Projects**
+- 🔭 **VsecureU** - Next-gen security platform (Looking for collaborators!)
+- 🤝 **Open-source contributions** - Especially in React/Django projects
+- 🏗️ **GDG MUJ Website** - Leading development for Google Developer Group
+
+---
+
+### 📫 **Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/vivek-kumar-garg-097677280" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="mailto:viv2005ek@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
   </a>
 </p>
 
 ---
 
-### 🚀 **About Me**
-- 💡 **Founder of [IndoMate](https://youtu.be/f2-kMNexQRI)**: Patented SOS platform with geofencing & criminal verification (Pre-incubated @AIC-MUJ).  
-- 🏆 **Hackathon Winner**: Built AI tools like [StockAnalyzerApp](https://vralytics-tradesmart-riskfree-learnai.netlify.app) and [AutoExcuse Maker](https://auto-execuse-generator.netlify.app) at Bolt.New Hackathon.  
-- 🌱 **Currently Learning**: Machine Learning & Web3 (Solidity, Smart Contracts).  
-- 👨‍💻 **60+ Public Repos** | **Open-Source Contributor** (GSSoC, ACM SIGAI).  
-- ⚡ Fun fact: *I automate excuses with AI... including why my code has bugs!*  
+<h3 align="left">🛠 Languages and Tools:</h3>
+<!-- Animated Tech Stack Grid -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
----
+<!-- Row 1 -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</a>
 
-### 🔥 **Featured Projects**
-| Project | Description | Links |
-|---------|-------------|-------|
-| **IndoMate** | Patented emergency safety platform | [Demo](https://youtu.be/f2-kMNexQRI) • [Patent](https://www.linkedin.com/posts/vivek-kumar-garg-097677280_startup-innovation-indomate-activity-7267473035710914560-IWLF) |
-| **StockAnalyzerApp** | AI-powered stock learning tool | [Live](https://vralytics-tradesmart-riskfree-learnai.netlify.app) • [Video](https://youtu.be/B5TVuqSOuSg) |
-| **GDG MUJ Website** | Official site for Google Developer Group | [Visit](https://gdg-muj.netlify.app) |
+<!-- Row 2 -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
 
----
+<!-- Row 3 -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</a>
 
-### 💼 **Professional Journey**
-- **Founder @IndoMate** (Nov 2024–Present): Led product strategy for SOS platform (React, Node.js, MongoDB).  
-- **Web Dev Co-Lead @GDG MUJ**: Built community website and managed tech initiatives.  
-- **SDE Intern @SDC, MUJ**: Developed Elective Management System (EMS) using MERN stack.  
-
----
-
-### 🛠 **Tech Stack**
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React"></a>
-  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux"></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind"></a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express"></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  
-  <!-- Learning -->
-  <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/-Web3-F16822?logo=web3.js&logoColor=white" alt="Web3"></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></a>
 </p>
 
 ---
 
-### 🏅 **Achievements**
-- 🏆 **2nd Runner-up** @Ennovate Ideathon | **Top 9** @Pitch-a-Thon  
-- 📜 **15+ Certifications**: NPTEL (Top 5% in DAA), Postman API Expert, Oracle SQL  
-- 🏅 **GirlScript Summer of Code** Contributor | **Dean’s List** (3x)  
+### 🏆 **Achievements**
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶 (Click to Expand)</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+</a>
+</div>
+</details>
 
 ---
 
-### 📫 **Let’s Connect**
-<p align="left">
-  <a href="https://linkedin.com/in/vivek-kumar-garg-097677280"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/></a>
-  <a href="mailto:xiv2005ek@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email"/></a>
-  <a href="https://github.com/viv2005ek"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/></a>
+### 📊 **GitHub Stats**
+<!-- Dynamic GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viv2005ek&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viv2005ek&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<!-- Snake Game Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viv2005ek/viv2005ek/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
