@@ -5,27 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=viv2005ek&label=Profile%20views&color=0e75b6&style=flat" alt="viv2005ek" /> 
 </p>
 
-- 🔭 I’m currently working on **VsecureU**
+<!-- Removed the old list of lines (VsecureU, currently learning, contact, etc.) -->
 
-- 🌱 I’m currently learning **Next.Js, GSAP, and WEB3**
+🏗️ I’m the **Founder of IndoMate**, a patented safety-tech startup that integrates real-time SOS alerts, geofencing, UID-based criminal verification, and is pre-incubated at AIC MUJ.
 
-- 👯 I’m looking to collaborate on **Open-source web development projects**
-
-- 🤝 I’m looking for help with **VsecureU**
-
-- 👨‍💻 All of my projects are available at [https://github.com/viv2005ek](https://github.com/viv2005ek)
-
-- 💬 Ask me about **MERN stack development**
-
-- 📫 How to reach me **viv2005ek@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vivek-kumar-garg-097677280/](https://www.linkedin.com/in/vivek-kumar-garg-097677280/)
-
-- ⚡ Fun fact **I think I am funny... but mostly when I'm debugging code!**
+🛠️ Notable Projects:
+- 🔐 **IndoMate** – SOS Security Platform | [Demo Video](https://youtu.be/f2-kMNexQRI)
+- 📈 **StockAnalyzerApp** – AI-Powered Stock Learning Tool | [Demo](https://vralytics-tradesmart-riskfree-learnai.netlify.app)
+- 🧠 **AutoExcuse Maker** – AI-powered excuse generator | [Demo](https://auto-execuse-generator.netlify.app)
+- 🌱 **GreenGARV** – A fullstack sustainability platform focusing on Reuse, Recycle, and Reduce using eco-store, recyclability detection, carbon interface, and food packet minimization
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/vivek kumar garg" target="blank">
+  <a href="https://linkedin.com/in/vivek-kumar-garg-097677280" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek kumar garg" height="30" width="40" />
   </a>
 </p>
@@ -92,7 +84,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" /> 
 </a>
 
- 
 </p>
 
 <details>	
@@ -105,11 +96,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-<!--   <img src="https://gssoc-dymanic-badges.vercel.app/api/viv2005ek?year=2024Extd" width="100px" height="100px" /> -->
-
-
 </a>
 </div>
 </details>
-
-
