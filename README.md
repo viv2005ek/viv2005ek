@@ -94,11 +94,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" alt="handlebars" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" />
 </a>
 
-<!-- EJS -->
-<a href="https://ejs.co/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="ejs" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" />
-</a>
-
 <!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" />
@@ -119,10 +114,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" />
 </a>
 
-<!-- Oracle SQL Developer -->
-<a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/O/oracle-sql-developer-logo-F4772477FE-seeklogo.com.png" alt="oracle sql developer" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" />
-</a>
+
 
 <!-- DBMS (Generic SQL database icon) -->
 <a href="https://en.wikipedia.org/wiki/Database" target="_blank" rel="noreferrer">
@@ -134,10 +126,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/4149/4149640.png" alt="uiux" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" />
 </a>
 
-<!-- Canva -->
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canva_Logo.png" alt="canva" width="60" height="60" style="background-color: lightgrey; padding: 15px; border-radius: 10px;" />
-</a>
 
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
