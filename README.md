@@ -11,9 +11,9 @@
 
 🛠️ Notable Projects:
 - 🔐 **IndoMate** – SOS Security Platform | [Demo Video](https://youtu.be/f2-kMNexQRI)
-- 📈 **StockAnalyzerApp** – AI-Powered Stock Learning Tool | [Demo Video]([https://vralytics-tradesmart-riskfree-learnai.netlify.app](https://www.linkedin.com/posts/vivek-kumar-garg-097677280_stockmarketrevolution-aifortrading-bolthackathon-activity-7343948591985586179-Tst2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERxLrMB9ZjxsIyKIhm06sxQqmckV3pfIfQ))
+- 📈 **StockAnalyzerApp** – AI-Powered Stock Learning Tool | [Demo Video](https://shorturl.at/vfAu6)
 - 🧠 **AutoExcuse Maker** – AI-powered excuse generator | [Demo](https://auto-execuse-generator.netlify.app)
-- 🌱 **GreenGARV** – A fullstack sustainability platform focusing on Reuse, Recycle, and Reduce using eco-store, recyclability detection, carbon interface, and food packet minimization | [Demo}(https://green-garv-6zuv.vercel.app/)
+- 🌱 **GreenGARV** – A fullstack sustainability platform focusing on Reuse, Recycle, and Reduce using eco-store, recyclability detection, carbon interface, and food packet minimization | [Demo](https://green-garv-6zuv.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
